@@ -1,0 +1,17 @@
+{
+    "name": "hmouille/http",
+    "type": "project",
+    "require": {
+      "php": "7"
+    },
+    "require-dev": {
+        "php": "7"
+    },
+    "authors": [
+        {
+            "name": "Hervé Mouille",
+            "email": "hm@cct-marketing.com"
+        }
+    ],
+    "minimum-stability": "stable",
+}
