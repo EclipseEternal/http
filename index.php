@@ -1,4 +1,4 @@
 <?php
 
-$getParam = $_GET['param'] ?? null;
-echo $getParam;
+$request = new HttpRequest();
+echo $request->getParam('param');
